@@ -1,4 +1,3 @@
-
 # EX 1A Print All Numbers 
 ## DATE: 16/04/2026
 ## AIM:
@@ -38,7 +37,7 @@ public class Main
 ```
 
 ## Output:
-
+<img width="440" height="160" alt="output1" src="https://github.com/user-attachments/assets/15e7d4a4-6095-4e17-a465-eedd205d1a23" />
 
 
 ## Result:
