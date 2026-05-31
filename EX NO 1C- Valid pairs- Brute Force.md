@@ -19,11 +19,9 @@ x if x >= 0.
 
 ## Program:
 ```
-/*
 Program to implement Reverse a String
 Developed by: Krishna Prasad S
 Register Number: 212223230108
-*/
 ```
 ```
 import java.util.*;
@@ -65,6 +63,7 @@ public class CountPairsWithDifference
 
 ## Output:
 
+<img width="431" height="299" alt="output3" src="https://github.com/user-attachments/assets/b3b80376-10f7-4710-9cda-6df0666c2889" />
 
 
 ## Result:
