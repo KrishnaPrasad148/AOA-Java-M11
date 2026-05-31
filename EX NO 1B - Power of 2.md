@@ -15,13 +15,11 @@ An integer n is a power of two, if there exists an integer x such that n == 2x.
 
 ## Program:
 ```
-/*
 Program to implement Reverse a String
 Developed by: Krishna Prasad S
 Register Number: 212223230108
-*/
 ```
-```
+```java
 import java.util.Scanner;
 
 public class Solution 
@@ -47,7 +45,7 @@ public class Solution
 
 ## Output:
 
-
+<img width="395" height="209" alt="output2" src="https://github.com/user-attachments/assets/640b970b-4179-4510-9628-7dcfb00c67aa" />
 
 ## Result:
 The program successfully implemented and the expected output is verified.
