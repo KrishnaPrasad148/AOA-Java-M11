@@ -15,11 +15,9 @@ Unlike traditional matrix multiplication which takes O(n3)O(n^3)O(n3) time, Stra
 
 ## Program:
 ```
-/*
 Program to implement Reverse a String
 Developed by: Krishna Prasad S
 Register Number: 212223230108
-*/
 ```
 ```
 import java.util.Scanner;
@@ -154,6 +152,7 @@ public class StrassenMatrix {
 
 ## Output:
 
+<img width="794" height="723" alt="output5" src="https://github.com/user-attachments/assets/621b8648-6ea1-440b-8277-84531c4487e7" />
 
 
 ## Result:
