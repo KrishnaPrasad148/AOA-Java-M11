@@ -18,7 +18,7 @@ Developed by: Krishna Prasad S
 Register Number: 212223230108
 */
 ```
-```
+```java
 import java.util.Scanner;
 
 public class Main
